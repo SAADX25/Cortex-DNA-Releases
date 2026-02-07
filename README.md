@@ -1,7 +1,9 @@
 # Cortex DNA
 
+<img width="1093" height="747" alt="Screenshot 2026-02-07 203517" src="https://github.com/user-attachments/assets/3865efab-e724-4a70-8d74-f70efe7d2d57" />
+
 <p align="center">
-  <img src="screenshot.png" alt="Cortex DNA Dashboard" width="800"/>
+  
   <br>
   <em>لوحة تحكم شاملة لمعلومات النظام وأدوات ويندوز السريعة.</em>
 </p>
