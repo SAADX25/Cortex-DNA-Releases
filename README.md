@@ -59,8 +59,6 @@ This program is designed to be "self-contained," meaning it **does not require**
 
 ## 💻 Technical Details
 
-* **Version:** `1.0.0`
-
 * **Development Environment:** .NET 8.0 (WPF)
 
 * **Architecture:** Windows x64
