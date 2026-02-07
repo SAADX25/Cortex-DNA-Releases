@@ -5,60 +5,76 @@
 <p align="center">
   
   <br>
-  <em>لوحة تحكم شاملة لمعلومات النظام وأدوات ويندوز السريعة.</em>
+ <em>A comprehensive control panel for system information and quick Windows tools.</em>
+
 </p>
 
 ---
 
-## 📖 نبذة عن البرنامج
-**Cortex DNA** هو أداة قوية وخفيفة الوزن لنظام التشغيل Windows، صُممت لتعطيك نظرة شاملة وفورية على أداء جهازك ومواصفاته. تم تطويره باستخدام أحدث تقنيات .NET 8 لضمان السرعة والكفاءة.
+## 📖 About the Program
 
-الهدف من البرنامج هو توفير مكان واحد لمراقبة العتاد (Hardware) والوصول السريع إلى أدوات النظام الأساسية دون الحاجة للبحث عنها في قوائم الويندوز.
+**Cortex DNA** is a powerful yet lightweight tool for Windows, designed to give you a comprehensive and instant overview of your computer's performance and specifications. It was developed using the latest .NET 8 technology to ensure speed and efficiency.
 
-## ✨ المميزات الرئيسية
+The program aims to provide a single location for hardware monitoring and quick access to essential system tools without having to search through Windows menus.
 
-يتميز **Cortex DNA** بواجهة عصرية داكنة (Dark Mode) ويقدم المزايا التالية:
+## ✨ Key Features
 
-* **🖥️ مراقبة لحظية:** عرض فوري لاستهلاك المعالج (CPU)، الذاكرة العشوائية (RAM)، كرت الشاشة (GPU)، والشبكة.
-* **💾 تفاصيل التخزين:** عرض دقيق للمساحة المستخدمة والفارغة على جميع الأقراص الصلبة (SSD/HDD).
-* **🛠️ أدوات سريعة (Quick Utilities):** وصول بضغطة زر لأهم أدوات النظام مثل:
-    * مدير المهام (Task Manager).
-    * محرر التسجيل (Registry Editor).
-    * موجه الأوامر بصلاحيات مسؤول (CMD Admin).
-    * لوحة التحكم (Control Panel).
-    * وغيرها الكثير...
-* **ℹ️ معلومات النظام:** عرض إصدار الويندوز، نوع اللوحة الأم (BIOS)، ومدة تشغيل الجهاز (Uptime).
-* **🚀 محمول بالكامل (Portable):** يعمل فوراً دون الحاجة لتثبيت.
+**Cortex DNA** features a modern Dark Mode interface and offers the following features:
 
----
+* **🖥️ Real-time Monitoring:** Instant display of CPU, RAM, GPU, and network usage.
 
-## ⚙️ كيفية التشغيل (بدون تثبيت)
+* **💾 Storage Details:** Accurate display of used and free space on all hard drives (SSD/HDD).
 
-تم تصميم هذا البرنامج ليكون "محمولاً" (Self-Contained)، مما يعني أنه **لا يتطلب** تثبيت أي برامج إضافية (مثل .NET Runtime) لكي يعمل.
+* **🛠️ Quick Utilities:** One-click access to essential system tools such as:
 
-1.  قم بتحميل ملف البرنامج المضغوط (ZIP).
-2.  فك الضغط عن المجلد في أي مكان على جهازك.
-3.  قم بتشغيل ملف **`CortexDNA.exe`** مباشرة.
+* Task Manager
 
-> **ملاحظة:** عند التشغيل لأول مرة، قد تظهر رسالة تنبيه من "Windows Defender" لأن البرنامج جديد. يمكنك الضغط على "More info" ثم "Run anyway" بأمان.
+* Registry Editor
+
+* Command Prompt (CMD Admin)
+
+* Control Panel
+
+* And much more...
+* **ℹ️ System Information:** Displays Windows version, motherboard type (BIOS), and system uptime.
+
+* **🚀 Fully Portable:** Runs instantly without installation.
 
 ---
 
-## 💻 التفاصيل التقنية
+## ⚙️ How to Run (Without Installation)
 
-* **الإصدار:** `1.0.0`
-* **بيئة التطوير:** .NET 8.0 (WPF)
-* **المعمارية:** Windows x64
-* **نوع البناء:** Single-File Self-Contained (ملف تنفيذي واحد مدمج).
+This program is designed to be "self-contained," meaning it **does not require** the installation of any additional software (such as .NET Runtime) to function.
+
+1. Download the program's compressed (ZIP) file.
+
+2. Extract the folder to any location on your computer.
+
+3. Run the **`CortexDNA.exe`** file directly.
+
+> **Note:** On first run, you may see a warning message from Windows Defender because the program is new. You can safely click "More info" and then "Run anyway."
 
 ---
 
-## 👨‍💻 المطور
+## 💻 Technical Details
 
-تم التطوير بواسطة **SAADX25**.
-نسخة المطورين (Developer Edition).
+* **Version:** `1.0.0`
+
+* **Development Environment:** .NET 8.0 (WPF)
+
+* **Architecture:** Windows x64
+
+* **Build Type:** Single-File Self-Contained (One executable file included).
+
+---
+
+## 👨‍💻 Developer
+
+Developed by **SAADX25**.
+
+Developer Edition.
 
 ---
 <p align="center">
-  Made with ❤️ in C#
+
 </p>
