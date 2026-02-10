@@ -1,6 +1,8 @@
 # Cortex DNA
+<img width="1101" height="751" alt="Screenshot 2026-02-10 174135" src="https://github.com/user-attachments/assets/9365c194-eae4-4326-9e7b-be681f6c3e60" />
+<img width="1101" height="748" alt="Screenshot 2026-02-10 174146" src="https://github.com/user-attachments/assets/36889150-c46c-448e-90bf-a2a6d1b22aa2" />
+<img width="1099" height="751" alt="Screenshot 2026-02-10 174201" src="https://github.com/user-attachments/assets/d86a438b-eed6-4b7f-be88-66daa0f1e354" />
 
-<img width="1132" height="807" alt="Screenshot 2026-02-08 154328" src="https://github.com/user-attachments/assets/71f59236-4d00-47bb-bf29-4c46048e0039" />
 
 <p align="center">
   
